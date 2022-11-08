@@ -32,7 +32,7 @@ To go further, this is a good start to process image. Another good way is to bui
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AwePhD/NotebooksLabsessionImage/blob/main/notebooks/manage_path.ipynb)
 
-Managing the path in Python is a pain. The [pathlib](https://docs.python.org/fr/3/library/pathlib.html) is a built-in python library that does the work for you. This is easy to use and OS independent. This short notebooks show up basic operations to save a lot of times for the rest of your Python journey.
+Managing the path in Python is a pain. The [pathlib](https://docs.python.org/fr/3/library/pathlib.html) is a built-in python library that does the work for you. This is easy to use and OS independent. This short notebooks show up basic operations to save a lot of times for the rest of your Python journey. **HIGHLY RECOMMENDED**
 
 ### CSV processing with Pandas
 
