@@ -5,6 +5,7 @@ env
 */__pycache__
 images
 pokemon.csv
+pokemon_bad.csv
 
 # Remove slide jupyternotebook
 *.html
