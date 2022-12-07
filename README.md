@@ -41,7 +41,7 @@ List and dictionary comprehensions are often seen in Python code, there are repr
 
 ### CSV processing with Pandas
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AwePhD/NotebooksLabsessionImage/blob/main/notebooks/pandas_intro.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AwePhD/NotebooksLabsessionImage/blob/main/notebooks/pandas_1_objects.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AwePhD/NotebooksLabsessionImage/blob/main/notebooks/pandas_2_csv.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AwePhD/NotebooksLabsessionImage/blob/main/notebooks/pandas_3_math.ipynb)
 
 `.csv` files are commonly used to process dataset. A lot of data might be represent from few features. [Pandas](https://pandas.pydata.org/docs/getting_started/overview.html#:~:text=pandas%20is%20a,toward%20this%20goal.) is a package that implements a lot of easy ways to represent and to "get-to-know" the data. This package is widely used among data analysts.
 
